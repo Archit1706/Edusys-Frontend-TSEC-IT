@@ -354,7 +354,7 @@ const deleteBatchApi = async (token, id) => {
   };
 };
 
-module.exports = {
+export {
   signin,
   signup,
   getTeacherSubject,
