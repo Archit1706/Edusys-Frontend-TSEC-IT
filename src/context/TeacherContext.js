@@ -7,8 +7,8 @@ import {
   getAllSubjects,
   getAllLabs,
   getAllBatches,
-  assignSubject,
   assignLab,
+  assignSubject,
   updateSubject,
   updateLab,
 } from "./apis";
@@ -24,6 +24,8 @@ export const TeacherProvider = ({ children }) => {
   const [subjects, setSubjects] = useState([]);
   const [labs, setLabs] = useState([]);
   const [batches, setBatches] = useState([]);
+
+  // console.log(typeof assignLab);
 
   const fetchTeacherSubjects = async () => {
     const token = localStorage.getItem("token");

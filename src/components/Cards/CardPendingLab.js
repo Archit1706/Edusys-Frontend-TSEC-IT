@@ -128,8 +128,8 @@ export default function CardPendingLab({ color, title, data, onAddClick }) {
                                         <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                                             <i
                                                 className={`fas fa-circle ${ele.status == "pending"
-                                                        ? "text-orange-500"
-                                                        : "text-emerald-500"
+                                                    ? "text-orange-500"
+                                                    : "text-emerald-500"
                                                     } mr-1`}
                                             ></i>{" "}
                                             {ele.status}
@@ -139,8 +139,8 @@ export default function CardPendingLab({ color, title, data, onAddClick }) {
                                                 <button
                                                     type="button"
                                                     class={`inline-block px-6 py-2 ${ele.status == "pending"
-                                                            ? "bg-lightBlue-600"
-                                                            : "bg-red-500"
+                                                        ? "bg-lightBlue-600"
+                                                        : "bg-red-500"
                                                         } text-white font-medium text-xs leading-tight rounded shadow-md hover:bg-green-600 hover:shadow-lg focus:bg-green-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-green-700 active:shadow-lg transition duration-150 ease-in-out`}
                                                     onClick={() => handlClick(ele.id)}
                                                     value={key}

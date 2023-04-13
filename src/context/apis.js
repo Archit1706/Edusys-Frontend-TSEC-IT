@@ -354,8 +354,6 @@ const deleteBatchApi = async (token, id) => {
   };
 };
 
-exports.assignLab = assignLab;
-
 module.exports = {
   signin,
   signup,
