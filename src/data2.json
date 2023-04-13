@@ -1,0 +1,116 @@
+{
+    "year": 2,
+    "semester": 2,
+    "subjectCode": "ITC304",
+    "subjectName": "Hello World",
+    "attainment": [
+        {
+            "co": "CO1",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": 3},
+                {"title": "PO2","value": 3},
+                {"title": "PO3","value": null},
+                {"title": "PO4","value": 3},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": null},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": null}
+            ]
+        },
+        {
+            "co": "CO2",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": null},
+                {"title": "PO2","value": null},
+                {"title": "PO3","value": 3},
+                {"title": "PO4","value": null},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": null},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": 3}
+            ]
+        },
+        {
+            "co": "CO3",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": 3},
+                {"title": "PO2","value": 3},
+                {"title": "PO3","value": null},
+                {"title": "PO4","value": 3},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": null},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": null}
+            ]
+        },
+        {
+            "co": "CO4",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": null},
+                {"title": "PO2","value": null},
+                {"title": "PO3","value": null},
+                {"title": "PO4","value": 3},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": 3},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": 3}
+            ]
+        },
+        {
+            "co": "CO5",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": 3},
+                {"title": "PO2","value": 3},
+                {"title": "PO3","value": null},
+                {"title": "PO4","value": 2},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": 2},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": 3}
+            ]
+        },
+        {
+            "co": "CO6",
+            "description": "lorem ipsum",
+            "data": [
+                {"title": "PO1","value": null},
+                {"title": "PO2","value": null},
+                {"title": "PO3","value": 3},
+                {"title": "PO4","value": null},
+                {"title": "PO5","value": null},
+                {"title": "PO6","value": null},
+                {"title": "PO7","value": null},
+                {"title": "PO8","value": null},
+                {"title": "PO9","value": null},
+                {"title": "PO10","value": null},
+                {"title": "PO11","value": null},
+                {"title": "PO12","value": 3}
+            ]
+        }
+    ]
+}

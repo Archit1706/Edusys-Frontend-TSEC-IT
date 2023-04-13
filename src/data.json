@@ -1,0 +1,428 @@
+{
+    "year": "3",
+    "semester": "5",
+    "subjectName": "Professional Communication & Ethics-II",
+    "subjectCode": "ITL505",
+    "attainment": [
+        {
+            "co": "ITL505.1",
+            "description": "Plan and prepare effective business/ technical documents which will in turn provide solid foundation for their future managerial roles.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "2"
+                },
+                {
+                    "title": "PO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PO3",
+                    "value": "3"
+                },
+                {
+                    "title": "PO4",
+                    "value": "2"
+                },
+                {
+                    "title": "PO5",
+                    "value": "2"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": null
+                },
+                {
+                    "title": "PO9",
+                    "value": null
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": null
+                },
+                {
+                    "title": "PO12",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO1",
+                    "value": null
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "co": "ITL505.2",
+            "description": "Strategize their personal and professional skills to build a professional image and meet the demands of the industry.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "2"
+                },
+                {
+                    "title": "PO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PO3",
+                    "value": "3"
+                },
+                {
+                    "title": "PO4",
+                    "value": "2"
+                },
+                {
+                    "title": "PO5",
+                    "value": "2"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": null
+                },
+                {
+                    "title": "PO9",
+                    "value": "2"
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": "2"
+                },
+                {
+                    "title": "PO12",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO1",
+                    "value": "2"
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "co": "ITL505.3",
+            "description": "Emerge successful in group discussions, meetings and result-oriented agreeable solutions in group communication situations.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "2"
+                },
+                {
+                    "title": "PO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PO3",
+                    "value": "3"
+                },
+                {
+                    "title": "PO4",
+                    "value": "2"
+                },
+                {
+                    "title": "PO5",
+                    "value": "2"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": null
+                },
+                {
+                    "title": "PO9",
+                    "value": "2"
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": "2"
+                },
+                {
+                    "title": "PO12",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO1",
+                    "value": null
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "co": "ITL505.4",
+            "description": "Deliver persuasive and professional presentations.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "3"
+                },
+                {
+                    "title": "PO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PO3",
+                    "value": "3"
+                },
+                {
+                    "title": "PO4",
+                    "value": null
+                },
+                {
+                    "title": "PO5",
+                    "value": "3"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": "2"
+                },
+                {
+                    "title": "PO9",
+                    "value": "2"
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": null
+                },
+                {
+                    "title": "PO12",
+                    "value": "2"
+                },
+                {
+                    "title": "PSO1",
+                    "value": null
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "co": "ITL505.5",
+            "description": "Develop creative thinking and interpersonal skills required for effective professional communication.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "3"
+                },
+                {
+                    "title": "PO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PO3",
+                    "value": "3"
+                },
+                {
+                    "title": "PO4",
+                    "value": null
+                },
+                {
+                    "title": "PO5",
+                    "value": "2"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": null
+                },
+                {
+                    "title": "PO9",
+                    "value": "2"
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": null
+                },
+                {
+                    "title": "PO12",
+                    "value": "2"
+                },
+                {
+                    "title": "PSO1",
+                    "value": null
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "co": "ITL505.6",
+            "description": "Apply codes of ethical conduct, personal integrity and norms of organizational behaviour.",
+            "data": [
+                {
+                    "title": "PO1",
+                    "value": "2"
+                },
+                {
+                    "title": "PO2",
+                    "value": "2"
+                },
+                {
+                    "title": "PO3",
+                    "value": "2"
+                },
+                {
+                    "title": "PO4",
+                    "value": "2"
+                },
+                {
+                    "title": "PO5",
+                    "value": "2"
+                },
+                {
+                    "title": "PO6",
+                    "value": null
+                },
+                {
+                    "title": "PO7",
+                    "value": null
+                },
+                {
+                    "title": "PO8",
+                    "value": "2"
+                },
+                {
+                    "title": "PO9",
+                    "value": null
+                },
+                {
+                    "title": "PO10",
+                    "value": null
+                },
+                {
+                    "title": "PO11",
+                    "value": "2"
+                },
+                {
+                    "title": "PO12",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO1",
+                    "value": null
+                },
+                {
+                    "title": "PSO2",
+                    "value": "3"
+                },
+                {
+                    "title": "PSO3",
+                    "value": null
+                },
+                {
+                    "title": "PSO4",
+                    "value": null
+                }
+            ]
+        }
+    ]
+}
