@@ -7,11 +7,13 @@ import {
   getAllSubjects,
   getAllLabs,
   getAllBatches,
-  assignLab,
+  // assignLab,
   assignSubject,
   updateSubject,
   updateLab,
 } from "./apis";
+
+import { assignLab } from "./apis";
 
 export const TeacherContext = createContext();
 
