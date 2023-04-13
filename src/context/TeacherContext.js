@@ -13,7 +13,24 @@ import {
   updateLab,
 } from "./apis";
 
-import { assignLab } from "./apis";
+// import { assignLab } from "./apis";
+const BASE_URL = "https://edusys-backend-vra9.onrender.com/v1";
+
+const assignLab = async (token, useBody) => {
+  const res = await fetch(`${BASE_URL}/grade/assignLab`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify(useBody),
+  });
+  return {
+    status: 200 <= res.status < 300 ? "success" : "error",
+    data: await res.json(),
+  };
+};
 
 export const TeacherContext = createContext();
 
